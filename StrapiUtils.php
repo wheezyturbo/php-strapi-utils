@@ -6,7 +6,7 @@ namespace PHPStrapi;
  *
  * A utility class for rendering rich text from Strapi's rich text JSON format into HTML.
  *
- * @author rubyciide (GitHub)
+ * @author wheezyturbo (GitHub)
  */
 class StrapiUtils
 {
